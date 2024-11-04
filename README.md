@@ -43,10 +43,10 @@ The website supports multiple test sets and includes random question generation 
 
 ## **Custom Test Creation**
 <div align="center">
-  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20212147.png">
+  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20212157.png">
 </div>
 <div align="center">
-  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20212157.png">
+  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20212147.png">
 </div>
 
 By saving user quiz and test data, the website provides tools to create custom tests. If there is a specific topic the user wants to focus on, they can create their own test to enhance their understanding of that topic. It supports various platforms such as SAT, SAT89, SAT10, and ACT.
