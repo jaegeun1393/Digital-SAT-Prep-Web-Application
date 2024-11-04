@@ -56,11 +56,15 @@ By saving user quiz and test data, the website provides tools to create custom t
 This feature provides a final report that analyzes the user's strengths and weaknesses along with overall average SAT scores. It offers performance analysis data to help users develop a personalized study path. The analysis tab also includes visual data representations, such as bar and circle graphs, for an intuitive understanding of progress.
 
 ## **Class Registration**
+<div align="center">
+  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20212905.png">
+</div>
+
 As mentioned in the introduction, this platform focuses on tutoring, allowing tutors to create SAT classes, assign homework, and monitor student progress. When a student needs a teacher's support, this feature provides the analysis data to facilitate effective tutoring sessions.
 
 ## **Note Taking**
 <div align="center">
-  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20212820.png">
+  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20213252.png">
 </div>
 
 When a teacher is demonstrating how to solve a problem step-by-step, this feature allows for easy note-taking and replaying of the process. This helps students review the solution methods at their own pace. Notes can also be shared publicly to assist other users.
