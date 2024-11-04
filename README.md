@@ -76,3 +76,10 @@ When a teacher is demonstrating how to solve a problem step-by-step, this featur
 
 The platform provides the same UI as the official Digital SAT. Features such as the timer, section descriptions, calculator, and references match the official SAT app, ensuring that students won't feel a gap between practicing for the SAT and taking the actual test.
 
+## **Additionally...**
+<div align="center">
+  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20205027.png">
+</div>
+
+Additionally, this project started with the goal of creating a web platform to accompany the SAT book developed by MMTPrep. The math topics, study materials, and practice problems presented in the SAT book are designed to align seamlessly with this digital SAT platform, providing a cohesive study experience.
+
