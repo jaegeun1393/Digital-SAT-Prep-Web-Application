@@ -1,7 +1,24 @@
 # Digital SAT Platform
+<div align="center">
+  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20205006.png">
+</div>
+
+<div align="center">
+
+  ![Build](https://img.shields.io/badge/Build-Complete-green)
+  ![Front-end](https://img.shields.io/badge/Front--end-React%20%2B%20Vite-lightblue)
+  ![Back-end](https://img.shields.io/badge/Back--end-Nodejs%20Socket-yellowgreen)
+  [![Link](https://img.shields.io/badge/Link-mmtprep.com-blue)](https://mmtprep.com)
+[![Design](https://img.shields.io/badge/Design-Figma-purple)](https://www.figma.com/proto/sPkQhLHX04UTgPbHhiptCw/LMS-2?node-id=1172-1364&starting-point-node-id=1172%3A1364&t=eOELep6PxhT2bGq4-1)
+
+</div>
+
 
 ## Short Description
 This is the Digital SAT platform designed to let students take the test on any device. One of the key aspects of this website is its ability to handle large data management, data transfer, and LaTeX & KaTeX rendering seamlessly. The main focus is the tutoring system for students who want to study with teachers to enhance their study time.
+<div align="center">
+  <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/1708033784779.png">
+</div>
 
 ### Technology Stack
 - **Front-end:** React + Vite.js
