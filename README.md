@@ -65,7 +65,7 @@ This feature provides a final report that analyzes the user's strengths and weak
 
 ## **Class Registration**
 <div align="center">
-  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20212905.png">
+  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20213252.png">
 </div>
 
 As mentioned in the introduction, this platform focuses on tutoring, allowing tutors to create SAT classes, assign homework, and monitor student progress. When a student needs a teacher's support, this feature provides the analysis data to facilitate effective tutoring sessions.
