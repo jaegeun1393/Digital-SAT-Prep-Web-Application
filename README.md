@@ -72,7 +72,7 @@ As mentioned in the introduction, this platform focuses on tutoring, allowing tu
 
 ## **Note Taking**
 <div align="center">
-  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20213252.png">
+  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20212820.png">
 </div>
 
 When a teacher is demonstrating how to solve a problem step-by-step, this feature allows for easy note-taking and replaying of the process. This helps students review the solution methods at their own pace. Notes can also be shared publicly to assist other users.
