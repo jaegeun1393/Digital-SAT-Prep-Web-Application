@@ -16,13 +16,17 @@
 
 ## Short Description
 This is the Digital SAT platform designed to let students take the test on any device. One of the key aspects of this website is its ability to handle large data management, data transfer, and LaTeX & KaTeX rendering seamlessly. The main focus is the tutoring system for students who want to study with teachers to enhance their study time.
-<div align="center">
-  <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/1708033784779.png">
-</div>
 
 ### Technology Stack
 - **Front-end:** React + Vite.js
+  <div align="center">
+  <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/1708033784779.png">
+</div>
 - **Back-end:** Node.js with Socket.io
+<div align="center">
+  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/back-end.png">
+</div>
+
 
 ## Core Features
 - SAT, SAT10, SAT 89, and ACT platform support
