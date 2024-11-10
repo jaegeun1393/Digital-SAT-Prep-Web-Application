@@ -44,7 +44,7 @@ Welcome to our Digital SAT platform, designed to let students take the test on a
   <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20205052.png">
 </div>
 
-The website supports multiple test sets and includes random question generation by following the formats provided by the Digital SAT Bluebook. Every question is built using LaTeX, ensuring there is no delay in loading questions from the server. The platform maintains over 80,000 questions without any visual corruption in LaTeX rendering.
+Our website supports multiple test sets and generates random questions following the formats provided by the Digital SAT Bluebook. By utilizing hashmaps, we've focused on achieving rapid data loading—even with a massive number of problems or lengthy texts. This means there's virtually no latency when accessing any of the over 80,000 LaTeX-rendered questions on our platform, all without any visual glitches in rendering.
 
 ## **Custom Test Creation**
 <div align="center">
