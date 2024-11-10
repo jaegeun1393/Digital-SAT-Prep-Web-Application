@@ -22,6 +22,7 @@ This is the Digital SAT platform designed to let students take the test on any d
   <div align="center">
   <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/1708033784779.png">
 </div>
+
 - **Back-end:** Node.js with Socket.io
 <div align="center">
   <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/back-end.png">
