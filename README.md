@@ -15,11 +15,12 @@
 
 
 ## Short Description
-Welcome to our Digital SAT platform, designed to let students take the test on any device. Our main focus is a tutoring system that connects students with teachers to enhance their study time. We've developed a GPT-4-based system on Azure that grades AP exam Free Response Questions (FRQs) according to various rules and cases. By carefully adjusting the token size, we deliver high-quality answers and scoring with fewer tokens. Leveraging our existing Node.js server and Azure's API, we've expanded our capabilities to offer users a more stable and comprehensive service.
+Prepare for SAT, AP, and ACT exams with ease through our cutting-edge online platform. Featuring a sleek interface built with React and Vite, and a WordPress-powered main page optimized for SEO, our service ensures top-tier search visibility. Powered by a Node.js backend deployed via PM2, and enhanced by Azure's integration of OpenAI, we deliver AI-driven tools such as virtual tutoring, problem-solving support, and data analysis to supercharge your learning experience. Your ultimate partner for exam success, all in one place.
 
 ### Technology Stack
-- **Front-end:** React + Vite.js
+- **Front-end:** WordPress, React + Vite.js
   <div align="center">
+   <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/wordpress.png">
   <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/1708033784779.png">
 </div>
 
