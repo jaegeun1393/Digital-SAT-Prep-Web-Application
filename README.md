@@ -15,7 +15,6 @@
 
 
 ## Short Description
-Link: sat.mmtprep.com \n\n
 Prepare for SAT, AP, and ACT exams with ease through our cutting-edge online platform. Featuring a sleek interface built with React and Vite, and a WordPress-powered main page optimized for SEO, our service ensures top-tier search visibility. Powered by a Node.js backend deployed via PM2, and enhanced by Azure's integration of OpenAI, we deliver AI-driven tools such as virtual tutoring, problem-solving support, and data analysis to supercharge your learning experience. Your ultimate partner for exam success, all in one place.
 
 ### Technology Stack
