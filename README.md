@@ -31,28 +31,25 @@ Prepare for SAT, AP, and ACT exams with ease through our cutting-edge online pla
 
 
 ## Core Features
-- SAT, SAT10, SAT 89, and ACT platform support
-- Custom test creation
-- Test result analysis tab
-- Class registration
-- Note taking
-- Same test environment as the official SAT
+- Comprehensive support for SAT, SAT10, SAT89, and ACT exam preparation
+- Custom test creation to tailor your study experience
+- Detailed test result analysis with intuitive insights
+- Seamless class registration for group or individual learning
+-Integrated note-taking for effective study management
+- Realistic test environment mirroring the official SAT experience
 
 ---
 
 ## **SAT, SAT10, SAT 89, and ACT Platform Support**
 <div align="center">
-  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20205052.png">
+  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202025-01-13%20011133.png">
 </div>
 
 Our website supports multiple test sets and generates random questions following the formats provided by the Digital SAT Bluebook. By utilizing hashmaps, we've focused on achieving rapid data loading—even with a massive number of problems or lengthy texts. This means there's virtually no latency when accessing any of the over 80,000 LaTeX-rendered questions on our platform, all without any visual glitches in rendering.
 
 ## **Custom Test Creation**
 <div align="center">
-  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20212157.png">
-</div>
-<div align="center">
-  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20212147.png">
+  <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202025-01-13%20011221.png">
 </div>
 
 By saving user quiz and test data, the website provides tools to create custom tests. If there is a specific topic the user wants to focus on, they can create their own test to enhance their understanding of that topic. It supports various platforms such as SAT, SAT89, SAT10, and ACT.
