@@ -1,4 +1,4 @@
-# Digital SAT Platform
+# Problem Vault Prep Platform
 <div align="center">
   <img src="https://github.com/jaegeun1393/Digital-SAT-Prep-Web-Application/blob/main/Screenshot%202024-11-03%20205006.png">
 </div>
